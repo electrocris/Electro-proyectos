@@ -1,0 +1,3 @@
+Este proyecto envía información cada 30 segundos a la plataforma de thingspeak,
+El ssd1306 debe ir a 3.3 V
+El dht22 debe ir a 5V
