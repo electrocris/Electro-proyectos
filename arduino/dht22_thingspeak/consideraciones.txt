@@ -2,3 +2,5 @@ Este código sube información a la nube de thingspeak cada 30 segundos
 Hay que tener una cuenta de matlab para poder realizar este proyecto
 El ssd1306 debe estar conectado a 3.3V
 El dht22 debe estar conectado a 5V
+Los archivos que se utilizan en el ide de arduino son:
+data_wifi.h y dht22_thingspeak.ino
